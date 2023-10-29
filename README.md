@@ -50,11 +50,6 @@ for third-party hosting, pull requests, etc.
 
 > View the git log of a package subtree.
 
-* `import-from-aur3.sh PACKAGE`
-
-> Experimental. Download the history of a non-migrated AUR3 package, and commit
-it to a new subtree.
-
 ## Hooks
 
 * pre-commit
