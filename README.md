@@ -68,7 +68,7 @@ for third-party hosting, pull requests, etc.
 
 ## License
 
-This repository is licensed under `GPL-3.0-or-later`.
+This repository is licensed under the GPLv2 or (at your option) any later version.
 
 ## Credits
 
